@@ -1,0 +1,8 @@
+name = "krezibro-bot"
+main = "src/index.ts"
+compatibility_date = "2024-04-05"
+
+# Раскомментируй и вставь ID базы данных после создания
+[[kv_namespaces]]
+binding = "BOT_SESSIONS"
+id = "cbef8a5330c94520b267d3be5cdde794"
